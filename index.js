@@ -10,6 +10,7 @@ jasmine.loadConfig({
   spec_dir: 'spec',
   spec_files: [
     "**/*[sS]pec.js"
+    //'rover.spec.js'
   ],
   "helpers": [
     "helpers/*.js"
